@@ -1,16 +1,12 @@
 ### Hi there 👋
 
- ✨  ✨ 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ ✨  ✨  ✨ 
+ 
+-👋 Hi, I’m Daniella!
+-👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: daniellaomokore@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+
 
 
