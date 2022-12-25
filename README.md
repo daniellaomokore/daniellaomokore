@@ -6,6 +6,7 @@
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: daniellaomokore@gmail.com
+- ✨ My LinkedIn: https://www.linkedin.com/in/daniellaomokore/
 - 😄 Pronouns: she/her
 
 
