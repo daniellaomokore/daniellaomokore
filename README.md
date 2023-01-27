@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 - 👋 Hi, I’m Daniella!
-- 👀 I’m interested in becoming a Software Engineer
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently developing a Full Stack Web App!
 - ✨ Current Techincal skills : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
