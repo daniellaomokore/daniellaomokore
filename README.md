@@ -2,7 +2,7 @@
  
 - 👋 Hi, I’m Daniella!
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently developing a Full Stack Web App!
+- 🌱 I’m currently developing a Full Stack Web App called "BoredApp"!
 - ✨ Current Techincal skills : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
 - 📚 Completed and Graduated from the Code First Girls Software Engineering Nanodegree
