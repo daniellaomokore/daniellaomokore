@@ -1,5 +1,6 @@
-### Hi there 👋
- 
+### Hi there 👋  
+
+
 - 👋 Hi, I’m Daniella!
 - 👀 I’m interested in Backend and Full Stack Engineering
 - 🌱 I’m currently developing a Full Stack Web App !
@@ -10,5 +11,5 @@
 - ✨ My LinkedIn: https://www.linkedin.com/in/daniellaomokore/
 - 😄 Pronouns: she/her
 
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,mysql,flask,git,visualstudio)](https://skillicons.dev)
 
