@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 
-- 👋 Hi, I’m Daniella!
+- 👋 I’m Daniella!
 - 👀 I’m interested in Backend and Full Stack Engineering
 - 🌱 I’m currently developing a Full Stack Web App !
 - ✨ Current Techincal skills : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
