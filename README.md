@@ -7,7 +7,7 @@
 - ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
 - 🎓 Graduated from the Code First Girls Software Engineering Nanodegree
-- 👩🏿‍💻Code First Girls Ambassador
+- 👩🏿‍💻 Code First Girls Ambassador
 - 📫 How to reach me: daniellaomokore@gmail.com
 - 🔗 My LinkedIn: https://www.linkedin.com/in/daniellaomokore/
 - 😄 Pronouns: she/her
