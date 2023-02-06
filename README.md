@@ -11,5 +11,9 @@
 - ✨ My LinkedIn: https://www.linkedin.com/in/daniellaomokore/
 - 😄 Pronouns: she/her
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,mysql,flask,git,visualstudio)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,html,css,js,mysql,flask,git,visualstudio" />
+  </a>
+</p>
 
