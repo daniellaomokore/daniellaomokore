@@ -48,7 +48,10 @@
   <a href="https://github.com/daniellaomokore" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
 </p>
 
-<p align="center">
-  <a href="https://id.atl
+           
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellaomokore&theme=radical&show_icons=true"/>
+</div>
