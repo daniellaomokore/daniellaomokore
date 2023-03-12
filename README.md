@@ -2,7 +2,7 @@
 
 
 - 👋 I’m Daniella!
-- 👀 I’m interested in Full Stack and Backend Engineering
+- 👀 I’m interested in Full Stack Engineering
 - 🌱 I’m currently developing a Full Stack Web App !
 - ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
