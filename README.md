@@ -2,14 +2,13 @@
 
 
 - 👋 I’m Daniella!
-- 👀 I’m interested in Full Stack Engineering
+- 👀 I’m a Full Stack Engineering
 - 🌱 I’m currently developing a Full Stack Web App !
 - ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
 - 🎓 Graduated from the Code First Girls Software Engineering Nanodegree
 - 👩🏿‍💻 Code First Girls Ambassador
 - 📫 How to reach me: daniellaomokore@gmail.com
-- 🔗 My LinkedIn: https://www.linkedin.com/in/daniellaomokore/
 - 😄 Pronouns: she/her
 
 <p align="center">
@@ -19,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniellaomokore/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/daniellaomokore/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a> -->
   
   <a href="mailto:daniellaomokore@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
