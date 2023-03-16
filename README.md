@@ -6,7 +6,7 @@
 - 🌱 I’m currently developing a Full Stack Web App !
 - ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
 - 📚 BSc Software Engineering for Business
-- 🎓 Graduated from the Code First Girls Software Engineering Nanodegree
+- 🎓 Code First Girls Software Engineering Degree Graduate
 - 👩🏿‍💻 Code First Girls Ambassador
 - 📫 How to reach me: daniellaomokore@gmail.com
 - 😄 Pronouns: she/her
