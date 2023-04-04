@@ -1,11 +1,10 @@
 ### Hi there 👋  
 
 
-- 👋 I’m Daniella!
-- 👀 I’m a Software Engineer
-- 👩🏿‍💻 Code First Girls Ambassador
+- 👋 I’m Daniella and i'm a Software Engineer
+- 👩🏿‍💻 A Code First Girls Ambassador
 - 🌱 I’m currently developing a Full Stack Web App !
-- ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum
+- ✨ Languages & Technologies : Python, Java, SQL, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum, Docker
 - 📚 BSc Software Engineering for Business
 - 🎓 Code First Girls Software Engineering Degree Graduate
 - 📫 How to reach me: daniellaomokore@gmail.com
