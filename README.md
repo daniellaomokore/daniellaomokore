@@ -2,8 +2,8 @@
 
 
 - 👋 I’m Daniella and i'm a Software Engineer
-- 👩🏿‍💻 A Code First Girls Ambassador
-- 🌱 I’m currently developing a Full Stack Web App called 'BoredApp!
+- 👩🏿‍💻 A Code First Girls Ambassador & Googe WTM Ambassador
+- 🌱 I’m currently developing a Full Stack Web App!
 - ✨ Languages & Technologies : Python, Java, SQL, Postgres, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum, Docker
 - 📚 BSc Software Engineering for Business
 - 🎓 Code First Girls Software Engineering Degree Graduate
