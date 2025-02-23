@@ -2,13 +2,12 @@
 
 
 - 👋 I’m Daniella and i'm a Software Engineer
-- 👩🏿‍💻 A Googe WTM Ambassador
+- 👩🏿‍💻 A Google WTM Ambassador
 - 🌱 I’m currently developing a Full Stack Web App!
 - ✨ Languages & Technologies : Python, Java, SQL, Postgres, MySQL, RestAPI, Flask, HTML, CSS, OOP, TDD, SDLC, Agile, Scrum, Docker
 - 📚 BSc Software Engineering for Business
 - 🎓 Code First Girls Software Engineering Degree Graduate
 - 📫 How to reach me: daniellaomokore@gmail.com
-- 😄 Pronouns: she/her
 
 <p align="center">
   <a href="https://skillicons.dev">
